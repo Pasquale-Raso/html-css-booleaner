@@ -37,3 +37,17 @@ color: white;
 }
 .orizontale_azzurro {
   background-color: rgb(156, 181, 235);
+}
+.info1 {
+  width: 300px;
+  height: 200px;
+  background-image: url(../img/monitor.jpg);
+}
+.bianco {
+  color: white;
+  font-size: 20px;
+}
+.info2 {
+  width: 300px;
+  height: 200px;
+  background-image: url(../img/graph.jpg);
