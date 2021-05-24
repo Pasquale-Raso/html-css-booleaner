@@ -9,5 +9,9 @@ header {
   width: 100%;
   height: 160px;
 }
-
-
+.grigio {
+  color: rgb(67, 71, 75);
+}
+.blu {
+  color: rgb(0, 84, 168);
+}
